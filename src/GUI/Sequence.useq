@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.2.3" icons="true" generate-combined-fragments="true">  
+  <object id="1" language="java" name="command.Plant" project="River Crosser" 
+    file="/River Crosser/src/command/Plant.java" binary="false" label="plant" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="242" y="0"/>  
+  </object>  
+  <object id="2" language="java" name="command.Invoker" project="River Crosser" 
+    file="/River Crosser/src/command/Invoker.java" binary="false" label="invoker" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="242" y="0"/>  
+  </object>  
+  <object id="3" language="java" name="command.Farmers" project="River Crosser" 
+    file="/River Crosser/src/command/Farmers.java" binary="false" label="farmers" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="242" y="0"/>  
+  </object>  
+  <object id="4" language="java" name="command.Command" project="River Crosser" 
+    file="/River Crosser/src/command/Command.java" binary="false" label="command" type="interface" autoSize="true">    
+    <position height="-1" width="-1" x="242" y="0"/>  
+  </object>  
+  <object id="5" language="java" name="command.CharcterOn" project="River Crosser" 
+    file="/River Crosser/src/command/CharcterOn.java" binary="false" label="charcterOn" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="242" y="0"/>  
+  </object>  
+  <object id="6" language="java" name="command.CharcterOff" project="River Crosser" 
+    file="/River Crosser/src/command/CharcterOff.java" binary="false" label="charcterOff" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="242" y="0"/>  
+  </object>  
+  <object id="7" language="java" name="command.Character" project="River Crosser" 
+    file="/River Crosser/src/command/Character.java" binary="false" label="character" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="242" y="0"/>  
+  </object>  
+  <object id="8" language="java" name="command.Animal" project="River Crosser" 
+    file="/River Crosser/src/command/Animal.java" binary="false" label="animal" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="242" y="0"/>  
+  </object>  
+  <object id="9" language="java" name="GUI.Story3" project="River Crosser" file="/River Crosser/src/GUI/Story3.java" 
+    binary="false" label="story3" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1170" y="0"/>  
+  </object>  
+  <object id="10" language="java" name="GUI.Story2" project="River Crosser" file="/River Crosser/src/GUI/Story2.java" 
+    binary="false" label="story2" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1170" y="0"/>  
+  </object>  
+  <object id="11" language="java" name="GUI.Stories" project="River Crosser" file="/River Crosser/src/GUI/Stories.java" 
+    binary="false" label="stories" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1170" y="0"/>  
+  </object>  
+  <object id="12" language="java" name="GUI.SaveS2" project="River Crosser" file="/River Crosser/src/GUI/SaveS2.java" 
+    binary="false" label="saveS2" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1170" y="0"/>  
+  </object>  
+  <object id="13" language="java" name="GUI.SaveS1" project="River Crosser" file="/River Crosser/src/GUI/SaveS1.java" 
+    binary="false" label="saveS1" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1170" y="0"/>  
+  </object>  
+  <object id="14" language="java" name="GUI.SaveRedoS2" project="River Crosser" 
+    file="/River Crosser/src/GUI/SaveRedoS2.java" binary="false" label="saveRedoS2" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1170" y="0"/>  
+  </object>  
+  <object id="15" language="java" name="GUI.saveRedoS1" project="River Crosser" 
+    file="/River Crosser/src/GUI/saveRedoS1.java" binary="false" label="saveRedoS1" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1170" y="0"/>  
+  </object>  
+  <object id="16" language="java" name="GUI.playFrame" project="River Crosser" 
+    file="/River Crosser/src/GUI/playFrame.java" binary="false" label="playFrame" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1170" y="0"/>  
+  </object>  
+  <object id="17" language="java" name="GUI.instruction" project="River Crosser" 
+    file="/River Crosser/src/GUI/instruction.java" binary="false" label="instruction" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1170" y="0"/>  
+  </object>  
+  <object id="18" language="java" name="GUI.GameOverS1" project="River Crosser" 
+    file="/River Crosser/src/GUI/GameOverS1.java" binary="false" label="gameOverS1" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1170" y="0"/>  
+  </object>  
+  <object id="19" language="java" name="GUI.GameOver" project="River Crosser" 
+    file="/River Crosser/src/GUI/GameOver.java" binary="false" label="gameOver" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1170" y="0"/>  
+  </object>  
+  <object id="20" language="java" name="GUI.FirstScene.SwingAction" project="River Crosser" 
+    file="/River Crosser/src/GUI/FirstScene.java" binary="false" label="swingAction1" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1170" y="0"/>  
+  </object>  
+  <object id="21" language="java" name="GUI.FirstScene" project="River Crosser" 
+    file="/River Crosser/src/GUI/FirstScene.java" binary="false" label="firstScene" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1170" y="0"/>  
+  </object>  
+  <object id="22" language="java" name="GUI.ErrorScene.SwingAction" project="River Crosser" 
+    file="/River Crosser/src/GUI/ErrorScene.java" binary="false" label="swingAction" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1170" y="0"/>  
+  </object>  
+  <object id="23" language="java" name="GUI.ErrorScene" project="River Crosser" 
+    file="/River Crosser/src/GUI/ErrorScene.java" binary="false" label="errorScene" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1170" y="0"/>  
+  </object>  
+  <object id="24" language="java" name="GUI.EA2" project="River Crosser" file="/River Crosser/src/GUI/EA2.java" 
+    binary="false" label="ea2" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1170" y="0"/>  
+  </object>  
+  <object id="25" language="java" name="GUI.EA" project="River Crosser" file="/River Crosser/src/GUI/EA.java" 
+    binary="false" label="ea" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1170" y="0"/>  
+  </object>  
+  <object id="26" language="java" name="GUI.Completed" project="River Crosser" 
+    file="/River Crosser/src/GUI/Completed.java" binary="false" label="completed" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1170" y="0"/>  
+  </object>
+</sequence-diagram>
